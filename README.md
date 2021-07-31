@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu Perfil!
 
-- ### 🔭 Trabalhando como Jovem Aprendiz na Karsten S.A
+- ### 💼 Trabalhando como Jovem Aprendiz na Karsten S.A
 - ### 🎓 Estudante desenvolvimento de Sistemas com Python
 
  <div>
