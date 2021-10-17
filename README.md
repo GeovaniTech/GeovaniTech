@@ -1,7 +1,8 @@
-# Olá, seja bem-vindo(a) ao meu Perfil!
+# Hi, welcome to my Profile!
 
-- ### 💼 Trabalhando como Jovem Aprendiz na Karsten S.A
-- ### 🎓 Estudante desenvolvimento de Sistemas com Python
+- ### 💼 Working as a Young Apprentice at Karsten S.A.
+- ### 🎓 Student Systems Development with Python.
+
 
  <div>
   <a href="https://github.com/GeovaniTech">
@@ -24,6 +25,6 @@
     <a href="https://www.linkedin.com/in/geovani-debastiani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:geovanidebastiani32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ## Contribuições:
+ ## Contributions:
 ![Snake animation](https://github.com/GeovaniTech/GeovaniTech/blob/output/github-contribution-grid-snake.svg)
 </div>
