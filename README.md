@@ -1,6 +1,5 @@
 # Hi, welcome to my Profile!
 
-- ### 💼 Working as a Young Apprentice at Karsten S.A.
 - ### 🎓 Student Systems Development with Python.
 
 
