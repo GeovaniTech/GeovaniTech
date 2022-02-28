@@ -1,6 +1,6 @@
 # Hi, welcome to my Profile!
 
-- ### 🎓 Student Systems Development with Python.
+- ### 🎓 Student Systems Development with Python and Java.
 
 
  <div>
