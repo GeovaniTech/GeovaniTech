@@ -1,4 +1,4 @@
-# Python/Java Developer
+# Python Developer
 ## Apresentation
 Hey guys, my name is Geovani Debastiani, I'm 16 years old and I'm on my way to becoming a software/web developer. My main projects are in python, and I'm currently studying java for work.
 
