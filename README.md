@@ -18,7 +18,7 @@ Hey guys, my name is Geovani Debastiani, I'm 16 years old and I'm on my way to b
   <img align="center" alt="VScode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-## Contacts
+## Social Media
 
 <div> 
     <a href="https://www.linkedin.com/in/geovani-debastiani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
