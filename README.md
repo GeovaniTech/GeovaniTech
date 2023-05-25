@@ -1,6 +1,6 @@
 # Student Developer
 ## Apresentation
-Hey guys, my name is Geovani Debastiani, I'm 16 years old and I'm on my way to becoming a software/web developer. My main projects are in python, and I'm currently studying java for work.
+Hey guys, my name is Geovani Debastiani, I'm 17 years old. Currently I'm working with Java for Websites using JSF, Primefaces, EJB, JPA and others tecnlogies. In my time free, I stay developing my project "LeCoffee", a system to manage coffee shops, fast foods... And during my work, when I can, I always study Kotlin through courses provided by Google.
 
 ## Main Projects
 
