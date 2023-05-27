@@ -3,7 +3,7 @@
 Hey guys, my name is Geovani Debastiani, I'm 17 years old. Currently I'm working with Java for Websites using JSF, Primefaces, EJB, JPA and others tecnlogies. In my time free, I stay developing my project "LeCoffee", a system to manage coffee shops, fast foods... And during my work, when I can, I always study Kotlin through courses provided by Google.
 
 ## Main Projects
- + <a href="https://github.com/GeovaniTech/lecoffee" target="_blank">LeCoffee - Coffee Shop Systemr</a> <br>
+ + <a href="https://github.com/GeovaniTech/lecoffee" target="_blank">LeCoffee - Coffee Shop System</a> <br>
  + <a href="https://github.com/GeovaniTech/PyStock_controle_de_estoque" target="_blank">PyStock - Inventory Manager</a> <br>
  + <a href="https://github.com/GeovaniTech/ListenNow_V2" target="_blank">ListenNow - Music Player</a>
  + <a href="https://github.com/GeovaniTech/DownTo-Videos-Musics" target="_blank">DownTo - Download Videos/Music/Audios</a>
