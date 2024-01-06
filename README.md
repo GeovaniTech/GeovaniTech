@@ -1,4 +1,4 @@
-# Student Developer
+# Software Developer
 ## Apresentation
 Hey guys, my name is Geovani Debastiani, I'm 17 years old. Currently I'm working with Java for Websites using JSF, Primefaces, EJB, JPA and others tecnlogies. In my time free, I stay developing my project "LeCoffee", a system to manage coffee shops, fast foods... And during my work, when I can, I always study Kotlin through courses provided by Google.
 
@@ -21,7 +21,6 @@ Hey guys, my name is Geovani Debastiani, I'm 17 years old. Currently I'm working
 ## Social Media
 
 <div> 
-    <a href="https://www.linkedin.com/in/geovani-debastiani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <a href="https://www.youtube.com/channel/UC9RsMXqCUf34H8VFkeHhObA" target="_blank"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/geovani-debastiani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:geovanidebastiani32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
