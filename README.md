@@ -1,6 +1,6 @@
 # Software Developer
 ## Apresentation
-Hey guys, my name is Geovani Debastiani, I'm 18 years old. Currently I'm working with Java for Websites using JSF, Primefaces, EJB, JPA and others tecnlogies. And during my work and in my free time, when I can, I always study Kotlin through courses provided by Google and Alura.
+Hey guys, I'm Geovani Debastiani, 18 years old. Currently, I'm immersed in Java for website development, utilizing JSF, Primefaces, EJB's, JPA, and various other technologies. In my spare time, I dedicate myself to studying Kotlin through courses offered by Google and Alura.
 
 ## Main Projects
  + <a href="https://github.com/GeovaniTech/investme" target="_blank">InvestMe - Financial Control System</a> <br>
