@@ -4,7 +4,6 @@ Hey guys, I'm Geovani Debastiani, 18 years old. Currently, I'm immersed in Java 
 
 ## Main Projects
  + <a href="https://github.com/GeovaniTech/investme" target="_blank">InvestMe - Financial Control System</a> <br>
- + <a href="https://github.com/GeovaniTech/lecoffee" target="_blank">LeCoffee - Coffee Shop System</a> <br>
  + <a href="https://github.com/GeovaniTech/PyStock_controle_de_estoque" target="_blank">PyStock - Inventory Manager</a> <br>
  + <a href="https://github.com/GeovaniTech/ListenNow_V2" target="_blank">ListenNow - Music Player</a>
  + <a href="https://github.com/GeovaniTech/DownTo-Videos-Musics" target="_blank">DownTo - Download Videos/Music/Audios</a>
