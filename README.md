@@ -7,7 +7,7 @@ Hey guys, I'm Geovani Debastiani, 18 years old. Currently, I'm immersed in Java 
 + <a href="https://github.com/GeovaniTech/ListenNow-App" target="_blank">ListenNow  - Music Player with Youtube Integration</a> <br>
 ### Web - JSF/Primefaces/Java
 + <a href="https://github.com/GeovaniTech/investme" target="_blank">InvestMe - Financial Control System</a> <br>
-### Apis - Java/Python
+### Apis - Java (Quarkus) / Python (Flask)
 + <a href="https://github.com/GeovaniTech/ListenNow-Api" target="_blank">ListenNow - Api to communicate with Mobile Application</a> <br>
 + <a href="https://github.com/GeovaniTech/InvestMe/tree/master/server-investme-api" target="_blank">InvestMe - Api to communicate with Mobile Application</a> <br>
 
