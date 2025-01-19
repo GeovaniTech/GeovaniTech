@@ -1,5 +1,4 @@
 # Software Developer
-## Apresentation
 Hi, I'm Geovani Debastiani, a 19-year-old developer with nearly 3 years of experience in Java web development, specializing in technologies like JSF, Primefaces, Hibernate, JPA, PostgreSQL, Wildfly and others technologies. More recently, I've started working with Android native development using Kotlin.
 
 In my current role, I develop features for a web and mobile application tailored to the construction industry. Additionally, I'm responsible for training and assisting new developers, as well as creating technical documentation. Although I currently live in Brazil, I am eager to work in an environment where I can further improve my English skills.
