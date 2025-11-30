@@ -7,9 +7,9 @@ Although I currently live in Brazil, I am eager to work in an environment where 
 
 ## Main Projects
 + (Android) <a href="https://github.com/GeovaniTech/ListenNow-App" target="_blank">ListenNow  - Music Player with Youtube Integration</a> <br>
++ (Api) <a href="https://github.com/GeovaniTech/ListenNow-Api" target="_blank">ListenNow - Api to communicate with Mobile Application</a> <br>
 + (Web) <a href="https://github.com/GeovaniTech/investme" target="_blank">InvestMe - Financial Control System</a> <br>
 + (Web) <a href="https://github.com/GeovaniTech/notes" target="_blank">Notes - Web Text Editor</a> <br>
-+ (Api) <a href="https://github.com/GeovaniTech/ListenNow-Api" target="_blank">ListenNow - Api to communicate with Mobile Application</a> <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
