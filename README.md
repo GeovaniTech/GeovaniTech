@@ -1,9 +1,5 @@
 # Software Developer
-Hi, I'm Geovani Debastiani, a 19-year-old developer with nearly 3 years of experience in Java web development, specializing in technologies like JSF, Primefaces, Hibernate, JPA, PostgreSQL, Wildfly and others technologies. More recently, I've started working with Android native development using Kotlin.
-
-In my current role, I develop features for a web and mobile application tailored to the construction industry. Additionally, I'm responsible for training and assisting new developers, as well as creating technical documentation. 
-
-Although I currently live in Brazil, I am eager to work in an environment where I can further improve my English skills.
+I am a mid-level Software Developer based in Brazil, specializing in native mobile development. With a deep focus on Kotlin/Java for Android and learning Swift/SwiftUI for iOS, currently focused on the construction tech industry. Beyond coding, I'm responsible for training and assisting other developers, as well as creating technical documentation. 
 
 ## Main Projects
 + (Android) <a href="https://github.com/GeovaniTech/ListenNow-App" target="_blank">ListenNow  - Music Player with Youtube Integration</a> <br>
