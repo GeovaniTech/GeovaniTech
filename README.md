@@ -8,9 +8,10 @@ I am a mid-level Software Developer based in Brazil, specializing in native mobi
 + (Web) <a href="https://github.com/GeovaniTech/investme" target="_blank">InvestMe - Financial Control System</a> <br>
 + (Web) <a href="https://github.com/GeovaniTech/notes" target="_blank">Notes - Web Text Editor</a> <br>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="VScode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Logo Swift" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Logo Kotlin" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Logo Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Logo PostgreSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ## Social Media
