@@ -1,5 +1,5 @@
 # Software Developer
-I am a mid-level Software Developer based in Brazil, specializing in native mobile development. With a deep focus on Kotlin/Java for Android and learning Swift/SwiftUI for iOS, currently focused on the construction tech industry. Beyond coding, I'm responsible for training and assisting other developers, as well as creating technical documentation. 
+I am a mid-level Software Developer based in Brazil, specializing in native mobile development.
 
 ## Main Projects
 + (Android) <a href="https://github.com/GeovaniTech/ListenNow-App" target="_blank">ListenNow  - Music Player with Youtube Integration</a> <br>
