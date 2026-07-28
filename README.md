@@ -1,5 +1,5 @@
 # Software Developer
-I am a mid-level Software Developer based in Brazil, specializing in native mobile development.
+I am a Software Developer based in Brazil, specializing in native mobile development.
 
 ## Main Projects
 + (Android) <a href="https://github.com/GeovaniTech/ListenNow-App" target="_blank">ListenNow  - Music Player with Youtube Integration</a> <br>
